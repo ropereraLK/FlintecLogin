@@ -12,6 +12,7 @@ namespace FlintecLogin.Controllers
         {
             return View();
             //Commited by Rohan
+            //Please Remove this
         }
 
         public ActionResult About()
