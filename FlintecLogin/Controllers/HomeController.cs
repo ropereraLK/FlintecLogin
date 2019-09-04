@@ -11,6 +11,7 @@ namespace FlintecLogin.Controllers
         public ActionResult Index()
         {
             return View();
+            //pull request by rajitha
         }
 
         public ActionResult About()
