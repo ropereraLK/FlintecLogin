@@ -18,6 +18,9 @@ namespace FlintecLogin.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+            
+            var rohan = 6;
+            Console.WriteLine(rohan);
 
             return View();
         }
